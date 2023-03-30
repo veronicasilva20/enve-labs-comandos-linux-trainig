@@ -1,0 +1,28 @@
+lista de comandos:
+sudo: abreviatura de super usuario.
+mkdi: crear carpeta
+touch: crear archivo
+cd:navega directorios
+cd . :carpeta anterior
+cd..:carpeta en nivel anterior 
+ls:lista contenidos 
+cp: copia archivos 
+mv: mueve archivos
+rm: borra archivos
+locate: busca archivos
+find: busca un archivo dentro de un directorio
+grep: busca una palabra buscando todos los textos
+df: uso del espacio
+dv: cuanto espacio
+head: primeras lineas 
+tail: ultimas lineas
+chmod: modifica permisos
+chown :cambia propiedad
+kill: termina manualmente
+man:manual 
+top: te muestra los procesos en ejecucion
+echo: linea texto
+ps: proceso en ejecucion
+ueradd useldel:crea una cuenta
+tree: te muestra arbol jerargico
+
