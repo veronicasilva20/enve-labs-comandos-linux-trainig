@@ -1,0 +1,26 @@
+sudo :super usuario
+mkdir:crea directorio
+cd :nos permite desplasarnos de un punto dentro del sistema
+cd ..:lleva directorio para arriba
+ls:nos lista los archivos
+ls -l:lista un contenido mas detallado
+cat:muestra los contenidos de los directorios
+ls -la:lista archivos oculto
+adduser:crea usuario 
+ addgroup:crea grupos
+pwd:donde estas ubicado
+touch:crea archivos
+rm:elimina archivos
+rm -fr:elimina directorios
+tree:muestra la estructura de directorios de una ruta de acceso
+ps:ve procesos en ejecucion
+chmod:cambiar permiso
+clear:limpia la terminal
+man:manual
+mv:mover un archivo o directorio de un ruta a destino
+ll:enumera -fecha-tiempo
+ 
+
+
+
+
