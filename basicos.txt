@@ -1,0 +1,51 @@
+ls = lista contenido de directorios
+
+ls -(opcion)
+
+ls -a = lista ficheros ocultos
+
+ls -l = lista ficheros en una columna
+
+ls -t = lista ficheros por orden alfabetico
+
+ls -r = revierte el orden
+
+ls -tr = invierte del mas antiguo al mas reciente
+ 
+ls -h = endica el tamaño
+
+ls -s = por tamaño
+
+ls -x = por extension 
+
+cd = cambiar de escritorio
+
+pwd= muestra el directorio actual
+
+cat = para ver el contenido de un archivo
+
+cp = copiar archivos o directorios
+
+mv= mueve y renombrar archivos o directorios 
+
+mkdir = crea directorios
+
+touch = crea archivos
+
+rm = borrar ( -r = carpetas , fr =todo ) 
+
+grep = busca patrones
+
+chmod = cambiar los permiso
+
+ps = lista los permisos
+
+kill = elimina un proceso
+
+ping = administra la conectividad de una red 
+
+man = manual
+
+echo = inprime texto 
+
+
