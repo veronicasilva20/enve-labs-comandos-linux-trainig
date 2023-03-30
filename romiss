@@ -1,0 +1,26 @@
+sudo:te da un super poder como un usuario.
+mkdir: te crea un directorio.
+cd:es un comando que te lleva a ver un archivo.
+cd ..: es uncomando que te lleba un paso mas arriba de donde estas.
+ls: este comando te lista los archivos.
+ls -l: lista los detalles de los archivos.
+cat: es un comando que muestra un contenido de un directorio.
+ll: te lista enumerando los archivos, con la hora y fecha de cada uno.
+ls -a: te lista los archivos ocultos.
+sudo adduser:te crea un usuario nuevo.
+sudo addgroup: te permite crear un grupo.
+pwd: te muestra donde estas parado.
+touch: te crea un archivo nuevo.
+rm: es un comando que te borra un archivo creado.
+rm -fr: te borra los directorios reados.
+tree: muesra una ruta de acceso con su estructura.
+ps: te identifica un proseso en el sistema.
+chmod: te permite dar permisos en un archivo para que lo utilice otro usuario
+chwod: El comando que sirve para cambiar el propietario de un determinado archivo o directorio a nivel de user es chown.
+echo:te permite mostrar un alinea creada en una salida estandar.
+clear: te limpia la pantalla de tu terminal.
+man: te da una biblioteca de los comandos requeridos.
+mv: te permite mover un archivo de una de una ruta a su destino.
+cp: te permite copiar los archivos de tu ruta a un destino.
+kill: te finaliza un permiso, matandolo.
+ppid: es un proceso padre de un pi
